@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity Blog</title>
+    <link>https://lwilo.github.io/</link>
+    <description>Recent content on Cybersecurity Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lwilo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Bombardino Write-up</title>
+      <link>https://lwilo.github.io/posts/first-writeup/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lwilo.github.io/posts/first-writeup/</guid>
+      <description>Introduction Link to heading Challenge forensic basé sur un fichier .jpg.enc chiffré avec ECB&amp;hellip;&#xA;Étapes suivies Link to heading Utilisation de xxd, CyberChef, Python Flag récupéré avec une attaque ECB pixel-based Flag: L3AK{ECB_is_bad}</description>
+    </item>
+  </channel>
+</rss>
